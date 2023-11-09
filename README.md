@@ -1,2 +1,2 @@
-# PacificTrailsPractice.github.io
-For the HTML/CSS assignment "Pacific Trails".
+# SistersClarinetPractice.github.io
+For the HTML/CSS assignment "Competency Project"
